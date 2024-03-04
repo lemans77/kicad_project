@@ -1,0 +1,22 @@
+{
+    "layout": {
+        "alternation": "rows",
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "2"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "5mm",
+        "hwidth": "5mm",
+        "vcount": "2"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "1mm",
+        "offset": "0.2mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
