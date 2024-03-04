@@ -1,2 +1,3 @@
-# kikad_project
+# KiCad
+
 My KiCad project
